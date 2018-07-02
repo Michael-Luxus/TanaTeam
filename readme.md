@@ -1,1 +1,1 @@
-Ce repository contient des fichiers ruby qui affichent nos prénoms
+Ce repository contient des fichiers ruby qui affichent les prénoms des groupes
